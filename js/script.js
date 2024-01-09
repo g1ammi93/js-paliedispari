@@ -88,10 +88,8 @@ function isEven(number) {
 
     if (number % 2 === 0) {
         message = 'Il numero è Pari'
-        console.log('Il numero è Pari')
     } else {
         message = 'Il numero è Dispari'
-        console.log('Il numero è Dispari')
     }
 
     return message
